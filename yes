@@ -1,0 +1,4 @@
+touch README.md
+# (Add content to the README file)
+git add .
+git commit -m "Initial commit: Set up README and project base"
